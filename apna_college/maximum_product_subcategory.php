@@ -31,4 +31,4 @@ echo maxProduct($nums);  // Output: 6
 
 $nums2 = [-2, 0, -1];
 echo maxProduct($nums2);  // Output: 0
-?>
+
